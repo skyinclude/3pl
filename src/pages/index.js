@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>Welcome to My 3pl</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
+      <h1>Gatsby + Node.js (TypeScript) 3pl</h1>
       <h2>
         Deployed with{' '}
         <a
